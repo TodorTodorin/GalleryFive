@@ -1,0 +1,19 @@
+    <md-content>
+        <md-list>
+            <md-item ng-repeat="author in authors">
+                <md-item-content>
+                    <div class="md-tile-left">
+                        <img ng-src="{{author.avatar}}" class="face" alt="{{author.who}}">
+                    </div>
+                    <div class="md-tile-content">
+                        <h3>{{author.name}}</h3>
+                        <!--<h4>{{author.who}}</h4>-->
+                        <p>
+                            {{author.info}}
+                        </p>
+                        <md-button ng-click="downloadLatestAuthorPicture()">Свали</md-button>
+                    </div>
+                </md-item-content>
+            </md-item>
+        </md-list>
+    </md-content>

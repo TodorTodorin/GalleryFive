@@ -1,0 +1,18 @@
+<div class="panel-group" id="accordion" role="tablist" ng-repeat="event in events" aria-multiselectable="true">
+    <div class="panel panel-default">
+        <div class="panel-heading" role="tab" id="headingOne">
+            <h4 class="panel-title">
+                <a class="upcoming-short-info" data-toggle="collapse" ng-click="showHideInfo(event)"
+                   data-parent="#accordion" aria-expanded="false" aria-controls="#{{$index}}">
+                    {{event.shortInfo}} -<span>{{event.date|date:'EEEE, MMMM d, y hh:mm'}}</span>
+                </a>
+            </h4>
+        </div>
+        <div id="{{$index}}" ng-hide="!event.showInfo" class="panel-collapse collapse in" role="tabpanel"
+             aria-labelledby="headingOne">
+            <div class="panel-body">
+                {{event.info}}
+            </div>
+        </div>
+    </div>
+</div>
