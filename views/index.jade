@@ -1,21 +1,5 @@
 extends layout
 
 block content
-    .col-md-6
-        h2 &Zcy;&acy; &gcy;&iecy;&lcy;&iecy;&rcy;&icy;&yacy;&tcy;&acy;
-            |
-            h3
-                | &Icy;&mcy;&iecy;:
-                strong {{gallery.name}}
-            |
-            h3
-            |
-            p
-                | {{gallery.info}}
-            |
-            h3
-                | &Pcy;&ocy;&scy;&iecy;&tcy;&icy;&tcy;&iecy;&lcy;&icy;:
-                strong {{gallery.visitors}}
-        .col-md-6
-            img.gallery-thumb(ng-src='{{gallery.thumbnail}}')
-
+  h1= title
+  p Welcome to #{title}

@@ -2,204 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52245a86-dc9b-49c3-9da1-03cdd4a45c73" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\app.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\app.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\authors\authors.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\authors\authorsCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\authors\view2_test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\angular\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\angular\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\angular\angular-csp.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\angular\angular.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\angular\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\angular\angular.min.js.gzip" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\angular\angular.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\angular\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\angular\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\angular\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\eventie\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\eventie\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\eventie\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\eventie\eventie.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\eventie\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\get-size\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\get-size\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\get-size\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\get-size\get-size.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\get-size\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\dist\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\dist\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\dist\jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\ajax\jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\ajax\load.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\ajax\parseJSON.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\ajax\parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\ajax\script.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\ajax\var\nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\ajax\var\rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\ajax\xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\attributes\attr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\attributes\classes.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\attributes\prop.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\attributes\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\attributes\val.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\core.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\core\access.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\core\init.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\core\parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\core\ready.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\core\var\rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\defaultDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\swap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\var\cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\var\getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\var\isHidden.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\var\rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\css\var\rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\data.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\data\Data.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\data\accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\data\var\data_priv.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\data\var\data_user.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\effects.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\effects\Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\effects\animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\event.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\event\alias.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\event\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\exports\amd.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\exports\global.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\intro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\manipulation\_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\manipulation\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\manipulation\var\rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\offset.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\outro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\queue.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\queue\delay.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\selector.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\sizzle\dist\sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\sizzle\dist\sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\sizzle\dist\sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\traversing\findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\traversing\var\rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\arr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\concat.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\push.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\rnotwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\slice.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\strundefined.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\toString.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\var\trim.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\jquery\src\wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\masonry\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\masonry\README.mdown" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\masonry\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\masonry\changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\masonry\dist\masonry.pkgd.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\masonry\dist\masonry.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\bower_components\masonry\masonry.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\components\masonry.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\components\version\interpolate-filter.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\components\version\interpolate-filter_test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\components\version\version-directive.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\components\version\version-directive_test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\components\version\version.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\components\version\version_test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\contacts\contacts.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\contacts\contactsCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\contacts\view2_test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\css\authors.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\css\contacts.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\css\main.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\css\upcoming.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\exhibitions\exhibitionPicture.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\exhibitions\exhibitionPictureDialog.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\exhibitions\exhibitions.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\exhibitions\exhibitionsCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\exhibitions\view2_test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\home\home.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\home\homeCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\home\view1_test.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\avatars\avatar1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\avatars\avatar10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\avatars\avatar2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\avatars\avatar3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\avatars\avatar4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\avatars\avatar5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\avatars\avatar6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\avatars\avatar7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\avatars\avatar8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\avatars\avatar9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\contacts.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok6.JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\barok9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm5.JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm7.JPG" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\kubizm9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\thumb-exhibition1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\exhibitions\thumb-exhibition2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\gallery.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\galleryThumb.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\img\za toti.rar" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\upcoming\upcoming.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\upcoming\upcomingCtrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\apps\mynewgallery\GalleryFive\app\upcoming\view2_test.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="$PROJECT_DIR$/views/index.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GalleryFive.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -268,8 +71,8 @@
       <file leaf-file-name="index.jade" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63670415" vertical-offset="0" max-vertical-offset="534">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.09550562" vertical-offset="0" max-vertical-offset="534">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -465,13 +268,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -618,8 +421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63670415" vertical-offset="0" max-vertical-offset="459">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.09550562" vertical-offset="0" max-vertical-offset="534">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>
